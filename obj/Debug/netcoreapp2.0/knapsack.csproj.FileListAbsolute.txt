@@ -1,0 +1,10 @@
+c:\dev\knapsack\obj\Debug\netcoreapp2.0\knapsack.csproj.CoreCompileInputs.cache
+c:\dev\knapsack\obj\Debug\netcoreapp2.0\knapsack.AssemblyInfoInputs.cache
+c:\dev\knapsack\obj\Debug\netcoreapp2.0\knapsack.AssemblyInfo.cs
+c:\dev\knapsack\bin\Debug\netcoreapp2.0\knapsack.deps.json
+c:\dev\knapsack\bin\Debug\netcoreapp2.0\knapsack.runtimeconfig.json
+c:\dev\knapsack\bin\Debug\netcoreapp2.0\knapsack.runtimeconfig.dev.json
+c:\dev\knapsack\bin\Debug\netcoreapp2.0\knapsack.dll
+c:\dev\knapsack\bin\Debug\netcoreapp2.0\knapsack.pdb
+c:\dev\knapsack\obj\Debug\netcoreapp2.0\knapsack.dll
+c:\dev\knapsack\obj\Debug\netcoreapp2.0\knapsack.pdb
