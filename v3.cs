@@ -6,7 +6,7 @@ namespace knapsack
 {
     /// <summary>
     /// dynamic programming algorithm, O(nW)
-    /// In our case, it's really fast since the number of combinations is small
+    /// Not the fastest for this case
     /// </summary>
     class v3
     {

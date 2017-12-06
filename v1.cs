@@ -9,28 +9,6 @@ namespace knapsack
         public static void Execute()
         {
             List<Bag.Item> knapsackItems = new List<Bag.Item>();
-            // knapsackItems.Add(new Bag.Item() { Name = "Map", Weight = 9, Value = 150 });
-            // knapsackItems.Add(new Bag.Item() { Name = "Water", Weight = 153, Value = 200 });
-            // knapsackItems.Add(new Bag.Item() { Name = "Compass", Weight = 13, Value = 35 });
-            // knapsackItems.Add(new Bag.Item() { Name = "Sandwitch", Weight = 50, Value = 160 });
-            // knapsackItems.Add(new Bag.Item() { Name = "Glucose", Weight = 15, Value = 60 });
-            // knapsackItems.Add(new Bag.Item() { Name = "Tin", Weight = 68, Value = 45 });
-            // knapsackItems.Add(new Bag.Item() { Name = "Banana", Weight = 27, Value = 60 });
-            // knapsackItems.Add(new Bag.Item() { Name = "Apple", Weight = 39, Value = 40 });
-            // knapsackItems.Add(new Bag.Item() { Name = "Cheese", Weight = 23, Value = 30 });
-            // knapsackItems.Add(new Bag.Item() { Name = "Beer", Weight = 52, Value = 10 });
-            // knapsackItems.Add(new Bag.Item() { Name = "Suntan Cream", Weight = 11, Value = 70 });
-            // knapsackItems.Add(new Bag.Item() { Name = "Camera", Weight = 32, Value = 30 });
-            // knapsackItems.Add(new Bag.Item() { Name = "T-shirt", Weight = 24, Value = 15 });
-            // knapsackItems.Add(new Bag.Item() { Name = "Trousers", Weight = 48, Value = 10 });
-            // knapsackItems.Add(new Bag.Item() { Name = "Umbrella", Weight = 73, Value = 40 });
-            // knapsackItems.Add(new Bag.Item() { Name = "WaterProof Trousers", Weight = 42, Value = 70 });
-            // knapsackItems.Add(new Bag.Item() { Name = "Note-Case", Weight = 22, Value = 80 });
-            // knapsackItems.Add(new Bag.Item() { Name = "Sunglasses", Weight = 7, Value = 20 });
-            // knapsackItems.Add(new Bag.Item() { Name = "Towel", Weight = 18, Value = 12 });
-            // knapsackItems.Add(new Bag.Item() { Name = "Socks", Weight = 4, Value = 50 });
-            // knapsackItems.Add(new Bag.Item() { Name = "Book", Weight = 30, Value = 10 });
-            // knapsackItems.Add(new Bag.Item() { Name = "waterproof overclothes ", Weight = 43, Value = 75 });
 
             knapsackItems.Add(new Bag.Item() { Name = "1", Weight = 57247, Value = 0.0887M });
             knapsackItems.Add(new Bag.Item() { Name = "2", Weight = 98732, Value = 0.1856M });
