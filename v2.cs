@@ -41,7 +41,13 @@ namespace knapsack
             sw.Start();
             var result = knapSack(W, wt, val, n);
             sw.Stop();
-            Console.WriteLine($"result:{result} total:{result + 12.5M} in {sw.ElapsedMilliseconds} ms");
+            Console.WriteLine($"500000 bytes result:{result} total:{result + 12.5M} in {sw.ElapsedMilliseconds} ms");
+            W = 1000000;
+            sw.Reset();
+            sw.Start();
+            result = knapSack(W, wt, val, n);
+            sw.Stop();
+            Console.WriteLine($"1000000 bytes result:{result} total(result+12.5btc):{result + 12.5M} in {sw.ElapsedMilliseconds} ms");
         }
     }
 }

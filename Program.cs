@@ -14,7 +14,6 @@
         /// <param name="args"></param>
         static void Main(string[] args)
         {
-            v1.Execute();
             v2.Execute();
             v3.Execute();
             Console.ReadKey();
